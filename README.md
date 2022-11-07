@@ -1,1 +1,3 @@
-# Proyecto2022-2
+# Web Scrapping
+
+Código del Crawler de Linkedin
